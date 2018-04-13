@@ -97,7 +97,7 @@ textarea:focus {
 
 a {
   text-decoration: none;
-  color: inherit;
+  color: #cfc0a4;
 }
 
 a:focus, a:active {
@@ -107,7 +107,7 @@ a:focus, a:active {
 }
 
 a:hover {
-  color: #cfc0a4;
+  color: inherit;
   text-decoration: none;
 }
 

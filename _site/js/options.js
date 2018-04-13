@@ -29,6 +29,7 @@
           navigation: true,
           navigationPosition: "left",
           scrollOverflow: true,
+          normalScrollElements: ".services-list",
           navigationTooltips: [
             "home",
             "our-team",
@@ -413,7 +414,7 @@
       userId: "6268139838",
       accessToken: "6268139838.e8bbf18.e5e87c9c97f5440d94da4617608d534a",
       template: '<a href="{{link}}"><img src="{{image}}" /></a>',
-      limit: '12'
+      limit: "12"
     });
     userFeed.run();
   });
