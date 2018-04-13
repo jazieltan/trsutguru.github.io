@@ -1,0 +1,14 @@
+{
+  "data": {
+    "id": "6268139838",
+    "username": "mytrustguru",
+    "profile_picture":
+      "https://scontent.cdninstagram.com/vp/74981373e7a75156c0b1eb4df9923897/5B710170/t51.2885-19/s150x150/23164434_288370685015597_3165108803699998720_n.jpg",
+    "full_name": "Trust Guru",
+    "bio": "",
+    "website": "",
+    "is_business": false,
+    "counts": { "media": 15, "follows": 39, "followed_by": 74 }
+  },
+  "meta": { "code": 200 }
+}
